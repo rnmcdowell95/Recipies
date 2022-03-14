@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "00859e465619128a",
+    "type": "split",
+    "children": [
+      {
+        "id": "86bdce46a528f3cf",
+        "type": "leaf",
+        "state": {
+          "type": "cook",
+          "state": {
+            "file": "Banana Pancakes.cook"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0477fc7634f7cb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d958473850f81a91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d2dd9d24201b41b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1209b245dc99555e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "229d286a681403db",
+    "type": "split",
+    "children": [
+      {
+        "id": "99ec6985440c60af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f338e8449eacb309",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Banana Pancakes.cook",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "86bdce46a528f3cf",
+  "lastOpenFiles": [
+    "Banana Pancakes.cook",
+    "Banana Pancakes.cook.md"
+  ]
+}

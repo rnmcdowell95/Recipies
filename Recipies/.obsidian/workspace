@@ -9,7 +9,7 @@
         "state": {
           "type": "cook",
           "state": {
-            "file": "Banana Pancakes.cook"
+            "file": "Whole Wheat Bread.cook"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banana Pancakes.cook",
+                "file": "Whole Wheat Bread.cook",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +87,8 @@
   },
   "active": "86bdce46a528f3cf",
   "lastOpenFiles": [
+    "Whole Wheat Bread.cook",
+    "Bread.md",
     "Banana Pancakes.cook",
     "Banana Pancakes.cook.md"
   ]

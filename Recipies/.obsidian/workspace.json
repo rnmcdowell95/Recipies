@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "00859e465619128a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f4da7dca404aeed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86bdce46a528f3cf",
+            "type": "leaf",
+            "state": {
+              "type": "cook",
+              "state": {
+                "file": "Whole Wheat Bread.cook"
+              }
+            }
+          },
+          {
+            "id": "dbfbae511bc62924",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0477fc7634f7cb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d958473850f81a91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d2dd9d24201b41b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1209b245dc99555e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "229d286a681403db",
+    "type": "split",
+    "children": [
+      {
+        "id": "99ec6985440c60af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f338e8449eacb309",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Whole Wheat Bread.cook",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "dbfbae511bc62924",
+  "lastOpenFiles": [
+    "Whole Wheat Bread.cook",
+    "Bread.md",
+    "Banana Pancakes.cook",
+    "Banana Pancakes.cook.md"
+  ]
+}

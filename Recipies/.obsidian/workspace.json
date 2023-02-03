@@ -21,9 +21,9 @@
             "id": "dbfbae511bc62924",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "cook",
               "state": {
-                "currentVersion": "1.1.9"
+                "file": "Whole Wheat Bread.cook"
               }
             }
           }
@@ -113,11 +113,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "dbfbae511bc62924",
+  "active": "2d2dd9d24201b41b",
   "lastOpenFiles": [
+    "Banana Pancakes.cook",
     "Whole Wheat Bread.cook",
     "Bread.md",
-    "Banana Pancakes.cook",
     "Banana Pancakes.cook.md"
   ]
 }
